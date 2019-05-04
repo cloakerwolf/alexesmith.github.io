@@ -3,3 +3,9 @@ h1{
     font-family: Palatino, 'Palatino linotype', serif;
     color: rgb(46,105,163);
 }
+
+#ContactInfo{
+    Text-align: right;
+    Margin: 0px auto;
+    Width: 75%;
+}
