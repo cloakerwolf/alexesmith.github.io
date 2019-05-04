@@ -25,3 +25,8 @@ h1{
     Width: 40%;
     Text-align: center;
 }
+.card{
+    Margin:0px auto;
+    Width: 75%;
+    Background-color: rgba(255,255,255,0.3);
+}
