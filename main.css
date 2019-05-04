@@ -11,7 +11,7 @@ header{
 }
 h1{
     font-family: Palatino, 'Palatino linotype', serif;
-    color: rgb(46,105,163);
+    color: rgb(196, 35, 23);
 }
 
 #ContactInfo{
@@ -28,7 +28,7 @@ h1{
 .card{
     Margin:0px auto;
     Width: 75%;
-    Background-color: rgba(255,255,255,0.1);
+    Background-color: rgba(196, 246, 253);
     Border: dotted;
     Border-Width: 10px 4px;
     Border-radius: 10px 40px;
