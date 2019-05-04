@@ -1,3 +1,9 @@
+body{
+    Background-image:url(underwater_summer-wallpaper-1920x1080.jpg);
+    Background-size: cover;
+    Height: 100%;
+    Overflow: scroll;
+}
 header{
     Text-align: center;
     Margin: 0px auto;
