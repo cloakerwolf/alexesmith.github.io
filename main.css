@@ -1,3 +1,8 @@
+header{
+    Text-align: center;
+    Margin: 0px auto;
+    Width: 75%;
+}
 h1{
     font-size: 32px;
     font-family: Palatino, 'Palatino linotype', serif;
