@@ -28,6 +28,7 @@ h1{
 .card{
     Margin:0px auto;
     Width: 75%;
+    Padding: 16px;
     Background-color: rgb(1, 188, 235);
     Border: dotted;
     Border-Width: 10px 4px;
